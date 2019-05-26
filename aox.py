@@ -9,7 +9,7 @@ except ImportError:
 
 banner = """
 
- █████╗ ██╗  ██╗██████╗  Author : Ms.ambari
+ █████╗ ██╗  ██╗██████╗  Author : BangPey87
 ██╔══██╗╚██╗██╔╝██╔══██╗ Date   : 2018-12-01
 ███████║ ╚███╔╝ ██║  ██║ Tools  : aoXdeface V.1.0
 ██╔══██║ ██╔██╗ ██║  ██║ Github : /Ranginang67
